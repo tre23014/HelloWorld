@@ -4,8 +4,6 @@ This is a message saying Hello World using python code. I created this to make s
 
 You can watch the demo video through this link: [Software Demo](https://screenrec.com/share/UWKzhS0MCG)
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 * Visual Studio Code
